@@ -1,5 +1,6 @@
 # homebridge-rademacher-blinds
 Homebridge plugin for Rademacher blinds.
+Forked from jortgies original version reverted back to the last version that supported the HomePilot version1.
 
 # Installation
 Follow the instruction in [homebridge](https://www.npmjs.com/package/homebridge) for the homebridge server installation.
